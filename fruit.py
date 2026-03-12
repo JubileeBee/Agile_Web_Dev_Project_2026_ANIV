@@ -1,3 +1,4 @@
 def favourite_fruits():
     
-    return[]  
+    return["orange", "strawberry"]  
+
